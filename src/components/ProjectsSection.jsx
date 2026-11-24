@@ -23,7 +23,7 @@ export default function ProjectsSection({ navigate }) {
           </h2>
 
           <p className="text-base sm:text-lg text-gray-600 leading-relaxed font-sans">
-            From workflow automation to intelligent reporting, discover how AOVIX transforms business operations.
+            From workflow automation to intelligent reporting, discover how TechBerrys transforms business operations.
           </p>
         </div>
 

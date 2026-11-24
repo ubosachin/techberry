@@ -189,28 +189,28 @@ export const siteData = {
       name: "Michael Roberts",
       role: "Marketing Director",
       rating: "5.0/5.0",
-      quote: "“AOVIX helped us simplify complex processes and improve our team's productivity. Their solutions have made our workflow faster efficient.”",
+      quote: "“TechBerrys helped us simplify complex processes and improve our team's productivity. Their solutions have made our workflow faster and efficient.”",
       avatar: "/images/testimonial-michael-roberts.png"
     },
     {
       name: "Sarah Mitchell",
       role: "Website Client",
       rating: "5.0/5.0",
-      quote: "“AOVIX streamlined our workflows and reduced manual work, giving our team more time to focus on growth.”",
+      quote: "“TechBerrys streamlined our workflows and reduced manual work, giving our team more time to focus on growth.”",
       avatar: "/images/testimonial-sarah-mitchell.png"
     },
     {
       name: "Olivia Bennett",
       role: "Business Owner",
       rating: "5.0/5.0",
-      quote: "“Since working with AOVIX, managing our daily operations has become much easier. Their professional approach stand out.”",
+      quote: "“Since working with TechBerrys, managing our daily operations has become much easier. Their professional approach stands out.”",
       avatar: "/images/testimonial-olivia-bennett.png"
     },
     {
       name: "Daniel Foster",
       role: "Operations Manager",
       rating: "5.0/5.0",
-      quote: "“AOVIX has transformed the way our team works. We've improved efficiency, reduced repetitive tasks, and gained more time for what matters most.”",
+      quote: "“TechBerrys has transformed the way our team works. We've improved efficiency, reduced repetitive tasks, and gained more time for what matters most.”",
       avatar: "/images/testimonial-daniel-foster.png"
     },
     {
@@ -224,11 +224,11 @@ export const siteData = {
 
   faqs: [
     {
-      q: "What services does TechBerry offer?",
-      a: "TechBerry offers a wide range of digital services, including website development, mobile app development, Shopify development, AI & automation, SEO, digital marketing, UI/UX design, cloud solutions, cybersecurity, and custom software development."
+      q: "What services does TechBerrys offer?",
+      a: "TechBerrys offers a wide range of digital services, including website development, mobile app development, Shopify development, AI & automation, SEO, digital marketing, UI/UX design, cloud solutions, cybersecurity, and custom software development."
     },
     {
-      q: "Can TechBerry build custom websites and mobile applications?",
+      q: "Can TechBerrys build custom websites and mobile applications?",
       a: "Yes. We build custom websites and mobile applications tailored to your business goals, user requirements, functionality, and brand identity."
     },
     {
@@ -247,13 +247,13 @@ export const siteData = {
 
   cta: {
     title: "Build your intelligence layer",
-    subtitle: "Discover how businesses partner with TechBerry to build better digital experiences, streamline operations, and bring their ideas to life through technology.",
+    subtitle: "Discover how businesses partner with TechBerrys to build better digital experiences, streamline operations, and bring their ideas to life through technology.",
     buttonText: "Book a call",
     buttonLink: "#contact"
   },
 
   contact: {
-    email: "hello@aovix.com",
+    email: "contact@techberrys.com",
     phone: "+1 (555) 123-4567",
     location: "business location"
   },
